@@ -1,0 +1,11 @@
+﻿  Quadratic.cpp
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(51,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(52,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(66,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(78,49): warning C4101: 'imaginaryPart': unreferenced local variable
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(78,18): warning C4101: 'x1': unreferenced local variable
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(78,39): warning C4101: 'realPart': unreferenced local variable
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(78,22): warning C4101: 'x2': unreferenced local variable
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(88): error C4700: uninitialized local variable 'determinant' used
+C:\Users\KINGSLEY\Desktop\150403509_CPE311_2019-2020_Test1\Quadratic class\Quadratic class\Quadratic.cpp(88): error C4700: uninitialized local variable 'x' used
